@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋 , soy Martín Gómez</h1>
-<h3 align="center">Soy de Argentina</h3>
+<h1 align="center">Hi 👋, I'm  Martín Gómez</h1>
+<h3 align="center">I'm from Argentina</h3>
 
-- 🔭 Soy Desarrollador Front-End actualmente trabajando en [The Flock](https://www.linkedin.com/company/the-flock-co/mycompany/)
+- 🔭 I’m Front-End Developer currently working on  [The Flock](https://www.linkedin.com/company/the-flock-co/mycompany/)
 
-- 🌱 Actualmente estoy aprendiendo **inglés y mejorando mis habilidades de programación en Udemy e investigando por mi cuenta**
+- 🔭 Other work experiences as a Front-End Developer [Maiti](https://www.linkedin.com/company/maitiapp/)
 
-- 🔭 Otras experiencias de trabajo como Desarrollador Front-End [Maiti](https://www.linkedin.com/company/maitiapp/)
+- 🌱 I’m currently improving **english and improving my programming skills in Udemy and researching on my own**
 
-- 💬 Pregúntame sobre **React Native**
+- 💬 Ask me about **React Native**
 
-<h3 align="left">Conéctate conmigo:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/juan-martin-gomez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/juan-martin-gomez/" height="30" width="40" /></a>
 </p>
