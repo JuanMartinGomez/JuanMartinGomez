@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm  Martín Gómez</h1>
 <h3 align="center">I'm from Argentina</h3>
 
-- 🔭 I’m Front-End Developer currently working on  [The Flock](https://www.linkedin.com/company/the-flock-co/mycompany/)
-
-- 🔭 Other work experiences as a Front-End Developer [Maiti](https://www.linkedin.com/company/maitiapp/)
+- 🔭 I’m Front-End Developer
 
 - 🌱 I’m currently improving **english and improving my programming skills in Udemy and researching on my own**
 
-- 💬 Ask me about **React Native**
+- 💬 Ask me about **React** and  **React Native**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
